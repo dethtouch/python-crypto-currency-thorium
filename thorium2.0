@@ -105,7 +105,7 @@ class Config:
     
     # Fallback hardcoded nodes (used if DNS fails)
     FALLBACK_NODES = [
-        ("31.15.205.119", 9333), #the OG node
+        ("192.168.0.26", 9333), #the OG node
     ]
     
     # DNS servers for redundant queries
